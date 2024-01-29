@@ -6,8 +6,8 @@ Task 3 module.
 
 
 def to_str(n: float) -> str:
-        """
-            Converts a floating-point number to a string.
-                """
+    """
+    Converts a floating-point number to a string.
+    """
 
-                    return str(n)
+    return str(n)
